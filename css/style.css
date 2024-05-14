@@ -131,7 +131,7 @@ CSS STRUCTURE:
 .text-primary{color: var(--primary-color) !important;}
 
 .fs-1{font-size:calc(1.375rem + 1.5vw)!important}
-
+.fs-11{font-size:calc(2.375rem + 1.5vw)!important}
 .fs-2{font-size:calc(1.325rem + .9vw)!important}
 .fs-3{font-size:calc(1.3rem + .6vw)!important}
 .fs-4{font-size:calc(1.275rem + .3vw)!important}
