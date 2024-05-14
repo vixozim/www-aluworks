@@ -842,6 +842,12 @@ Single Product page style start
   .product-box {
     width: 50%;
   }
+
+
+  #hero{
+    height: fit-content;
+  }
+
 }
 
 .product-store .product-item {
